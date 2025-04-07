@@ -185,8 +185,8 @@
    "type": "Link"
   }
  ],
- "modified": "2023-09-29 16:55:20.281587",
- "modified_by": "Administrator",
+ "modified": "2025-04-07 14:27:47.239988",
+ "modified_by": "mjoof@insistglobal.com",
  "module": "HR",
  "name": "Leaves",
  "number_cards": [],
@@ -195,7 +195,7 @@
  "public": 1,
  "quick_lists": [],
  "roles": [],
- "sequence_id": 12.0,
+ "sequence_id": 19.0,
  "shortcuts": [
   {
    "color": "Orange",
